@@ -1,7 +1,28 @@
 ## Hi there 👋
 
+I'm Kathy Sanchez, an analyst and researcher with a crime and economics background in nonprofits and government. I currently manage research contracts at the Council on Criminal Justice and support its commissions and working groups with data analysis and research. My previous work supported government, legal and legislative teams. I conducted ad hoc analysis for sentencing and seizure projects and helped teams improve data processes. My projects are in stata and python.
+
+💬 Ask me about: Your data project    
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathy-sanchez-/)
+
+### Experience
+- Research Specialist, [Council on Criminal Justice](https://counciloncj.org/), 2024–Present
+- Research Analyst, [Maryland Commission on Criminal Sentencing Policy](https://msccsp.org/), 2023
+- Researcher, [Institute for Justice](https://ij.org/), 2016-2022
+
+### Education
+- Master of Public Policy, University of Massachusetts Dartmouth
+- Frédéric Bastiat Fellow, Mercatus Center at George Mason University
+- Applied Econometrics, George Mason University
+
+### Research & Reports
+- [Women's Justice: By the Numbers](https://counciloncj.org/womens-justice-by-the-numbers/) 
+- [Too Many Licenses? Government Sunrise Reviews Cast Doubt on Barriers to Work](https://ij.org/report/too-many-licenses/)
+
+
 <!--
 **kathysanchez/kathysanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
