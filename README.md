@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kathy Sanchez, an analyst and researcher with a crime and economics background in nonprofits and government. I currently manage research contracts at the Council on Criminal Justice and support its commissions and working groups with data analysis and research. My previous work supported government, legal and legislative teams. I conducted ad hoc analysis for sentencing and seizure projects and helped teams improve data processes. My projects are in stata and python.
+I'm Kathy Sanchez, an analyst and researcher with a crime and economics background in nonprofits and government. I currently manage research contracts at the Council on Criminal Justice and support its commissions and working groups with data analysis. My previous work supported government, legal and legislative teams where I analyzed sentencing and seizure data and helped teams improve their data processes. My work is in python and stata.
 
 💬 Ask me about: Your data project    
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathy-sanchez-/)
