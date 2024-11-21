@@ -8,7 +8,7 @@ I'm Kathy Sanchez, an analyst and researcher with a crime and economics backgrou
 Experience
 - Research Specialist, [Council on Criminal Justice](https://counciloncj.org/), 2024–Present
 - Research Analyst, [Maryland Commission on Criminal Sentencing Policy](https://msccsp.org/), 2023
-- Researcher, [Institute for Justice](https://ij.org/), 2016-2022
+- Researcher, [Institute for Justice](https://ij.org/), 2017–2022
 
 Education
 - Master of Public Policy, University of Massachusetts Dartmouth
