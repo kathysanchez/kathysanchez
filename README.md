@@ -9,9 +9,10 @@ Research & Reports
 - [Women's Justice: By the Numbers](https://counciloncj.org/womens-justice-by-the-numbers/) 
 - [Too Many Licenses? Government Sunrise Reviews Cast Doubt on Barriers to Work](https://ij.org/report/too-many-licenses/)
 - [The Abuse of Civil Asset Forfeiture](https://ij.org/report/policing-for-profit-3/)
+- [Barriers to Braiding: Illinois Analysis](https://ij.org/wp-content/uploads/2019/11/Barriers-to-Braiding-Supplement-Illinois.pdf)
 
 Experience
-- Faculty Research Analyst, [Maryland Commission on Criminal Sentencing Policy](https://msccsp.org/), 2023
+- Faculty Research Analyst, [Maryland State Commission on Criminal Sentencing Policy](https://msccsp.org/), 2023
 - Researcher, [Institute for Justice](https://ij.org/), 2017–2022
 
 Education
