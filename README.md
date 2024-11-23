@@ -1,28 +1,19 @@
-## Hi there 👋
+### Hi there 👋 
 
-I'm Kathy Sanchez, an analyst and researcher with a crime and economics background in nonprofits and government. I currently manage research contracts at the [Council on Criminal Justice](https://counciloncj.org/) and analyze data for its commissions and working groups. In previous work, I researched sentencing, seizures and labor regulations and helped teams improve their data processes. My work is in python and stata.
+I'm a crime and econ researcher. I currently manage research contracts at the [Council on Criminal Justice](https://counciloncj.org/) and analyze data for its commissions and working groups. My work is in python and stata.
 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathy-sanchez-/)  
 💬 Ask me about: Your data project    
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathy-sanchez-/)
+💼 Formerly: [Maryland Sentencing Commission](https://msccsp.org/) and [Institute for Justice](https://ij.org/)
 
-Research & Reports
-- [Women's Justice: By the Numbers](https://counciloncj.org/womens-justice-by-the-numbers/) 
-- [Too Many Licenses? Government Sunrise Reviews Cast Doubt on Barriers to Work](https://ij.org/report/too-many-licenses/)
-- [The Abuse of Civil Asset Forfeiture](https://ij.org/report/policing-for-profit-3/)
-
-Experience
-- Faculty Research Analyst, [Maryland State Commission on Criminal Sentencing Policy](https://msccsp.org/), 2023
-- Researcher, [Institute for Justice](https://ij.org/), 2017–2022
-
-Education
-- Master of Public Policy, University of Massachusetts Dartmouth
-- Applied Econometrics, George Mason University
-
+Research & Reports  
+ - [Women's Justice: By the Numbers](https://counciloncj.org/womens-justice-by-the-numbers/) 
+ - [Too Many Licenses? Government Sunrise Reviews Cast Doubt on Barriers to Work](https://ij.org/report/too-many-licenses/)
+ - [The Abuse of Civil Asset Forfeiture](https://ij.org/report/policing-for-profit-3/)
 
 
 <!--
 **kathysanchez/kathysanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
