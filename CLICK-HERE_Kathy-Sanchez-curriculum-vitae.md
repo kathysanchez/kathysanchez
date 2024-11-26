@@ -1,3 +1,4 @@
+
 ## Kathy Sanchez
 
 Researcher and data analyst in think tanks, specializing in streamlining data processes and translating complex criminal justice and economic insights into clear, actionable language. 
@@ -10,9 +11,9 @@ Researcher and data analyst in think tanks, specializing in streamlining data pr
 #### Employment
 - Research Specialist, [Council on Criminal Justice](https://counciloncj.org/), 2024–Present 
 - Faculty Specialist Research Analyst, [Maryland Commission on Criminal Sentencing Policy](https://msccsp.org/) at the University of Maryland College Park, 2023
-- Researcher, [Institute for Justice](https://ij.org/), 2016-2022 
+- Researcher, [Institute for Justice](https://ij.org/), 2016–2022 
 - Research Intern, [John Locke Foundation](https://www.johnlocke.org/), Fall 2016 
-- Deputy Clerk, Wake County Clerk of Criminal Court in North Carolina, 2015-2016
+- Deputy Clerk, Wake County Clerk of Criminal Court in North Carolina, 2015–2016
 
 #### Awards 
 - Frédéric Bastiat Fellow, Mercatus Center at George Mason University, 2022 
@@ -26,9 +27,9 @@ Researcher and data analyst in think tanks, specializing in streamlining data pr
 - [Barriers to Braiding: Illinois Analysis](https://ij.org/wp-content/uploads/2019/11/Barriers-to-Braiding-Supplement-Illinois.pdf), 2019 
 
 #### Testimony   
-- Support of [HB 1101](https://gencourt.state.nh.us/BillHistory/SofS_Archives/2022/senate/HB1101S.pdf) to limit equitable sharing, oral testimony submitted to the Senate Judiciary Committee, New Hampshire, April 2022. 
-- Support of [HB 1493](https://gencourt.state.nh.us/BillHistory/SofS_Archives/2022/senate/HB1493S.pdf) to clarify transparency requirements, oral testimony submitted to the Senate Judiciary Committee, New Hampshire, April 2022. 
-- [Support of HB 1328—Comprehensive Forfeiture Reporting](https://mylrc.sdlegislature.gov/api/Documents/233893.pdf), oral and written testimony submitted to the House Judiciary Committee, South Dakota, February 2022. 
+- Support of [HB 1101](https://gencourt.state.nh.us/BillHistory/SofS_Archives/2022/senate/HB1101S.pdf) to limit equitable sharing, oral testimony before the Senate Judiciary Committee, New Hampshire, April 2022 
+- Support of [HB 1493](https://gencourt.state.nh.us/BillHistory/SofS_Archives/2022/senate/HB1493S.pdf) to clarify transparency requirements, oral testimony before the Senate Judiciary Committee, New Hampshire, April 2022 
+- [Support of HB 1328—Comprehensive Forfeiture Reporting](https://mylrc.sdlegislature.gov/api/Documents/233893.pdf), oral and written testimony to the House Judiciary Committee, South Dakota, February 2022 
 
 
 #### Presentations   
