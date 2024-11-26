@@ -1,0 +1,16 @@
+# Ignore the data
+/source_data/
+
+# Ignore CV libraries
+/CLICK*/
+*.html
+
+# Ignore archived files
+/archive/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
