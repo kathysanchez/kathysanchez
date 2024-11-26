@@ -5,8 +5,6 @@ I'm a crime and econ researcher. I currently manage research contracts at the [C
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathy-sanchez-/) or ksanchez@counciloncj.org  
 💬 Ask me about: Your data project, my work or exchanging ideas    
 💼 Previously: [Maryland Sentencing Commission](https://msccsp.org/) and [Institute for Justice](https://ij.org/)   
-📊 Sample research & reports: [Women's Justice: By the Numbers](https://counciloncj.org/womens-justice-by-the-numbers/); [Too Many Licenses? Government Sunrise Reviews Cast Doubt on Barriers to Work](https://ij.org/report/too-many-licenses/); [The Abuse of Civil Asset Forfeiture](https://ij.org/report/policing-for-profit-3/)
-
 
 <!--
 **kathysanchez/kathysanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,13 +1,13 @@
 ## Kathy Sanchez
 
-Research data analyst in think tanks, specializing in streamlining data processes and translating complex criminal justice and economic insights into clear, actionable language. 
+Researcher and data analyst in think tanks, specializing in streamlining data processes and translating complex criminal justice and economic insights into clear, actionable language. 
 
 #### Education
 - Master of Public Policy, University of Massachusetts Dartmouth, 2022
 - Applied Econometrics, George Mason University, 2018
 - Master of Arts in Political Science, North Carolina State University, 2016 
 
-#### Experience
+#### Employment
 - Research Specialist, [Council on Criminal Justice](https://counciloncj.org/), 2024–Present 
 - Faculty Specialist Research Analyst, [Maryland Commission on Criminal Sentencing Policy](https://msccsp.org/) at the University of Maryland College Park, 2023
 - Researcher, [Institute for Justice](https://ij.org/), 2016-2022 
@@ -38,7 +38,7 @@ Research data analyst in think tanks, specializing in streamlining data processe
 
 #### Op-Eds   
 - [IRS Stole Money and Hid the Details for Years](https://reason.com/2022/05/10/irs-stole-money-and-hid-the-details-for-years/), 2022 
-- [Mayor Lightfoot’s Civil Forfeiture Proposal Encourages Policing for Profit, Not Reducing Violent Crime](https://www.chicagotribune.com/2021/09/27/  op-ed-mayor-lightfoots-civil-forfeiture-proposal-encourages-policing-for-profit-not-reducing-violent-crime/), 2021 
+- [Mayor Lightfoot’s Civil Forfeiture Proposal Encourages Policing for Profit, Not Reducing Violent Crime](https://www.chicagotribune.com/2021/09/27/op-ed-mayor-lightfoots-civil-forfeiture-proposal-encourages-policing-for-profit-not-reducing-violent-crime/), 2021 
 - [Scrap the Licensing Bottleneck](https://www.detroitnews.com/story/opinion/2018/01/03/scrap-licensing-bottleneck/109138650/), 2018 
 
 #### Podcast Episodes   
