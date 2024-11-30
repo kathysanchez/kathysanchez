@@ -1,10 +1,11 @@
 #### Hi there! 👋 
 
-I'm a crime and econ researcher. I currently manage research contracts at the [Council on Criminal Justice](https://counciloncj.org/) and analyze data for its commissions and working groups. My work is in python and stata.
+I'm a crime and econ researcher. I currently manage research contracts at the [Council on Criminal Justice](https://counciloncj.org/) and analyze data for its commissions and working groups. [CV](https://github.com/kathysanchez/kathysanchez/blob/main/CLICK_HERE_Sanchez_CV.pdf)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathy-sanchez-/) or ksanchez@counciloncj.org  
 💬 Ask me about: Your data project, my work or exchanging ideas    
-💼 Previously: [Maryland Sentencing Commission](https://msccsp.org/) and [Institute for Justice](https://ij.org/)   
+💼 Previously: [Institute for Justice](https://ij.org/) and Maryland Sentencing Commission 
+
 
 <!--
 **kathysanchez/kathysanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
