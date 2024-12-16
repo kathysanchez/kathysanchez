@@ -1,6 +1,6 @@
 #### Hi there! 👋 
 
-I'm a crime and econ researcher. I currently manage research contracts at the [Council on Criminal Justice](https://counciloncj.org/) and analyze data for its commissions and working groups. [CV](https://github.com/kathysanchez/kathysanchez/blob/main/CLICK_HERE_Sanchez_CV.pdf)
+I'm a crime and econ researcher. I currently manage research contracts at the [Council on Criminal Justice](https://counciloncj.org/) and analyze data for its commissions and working groups.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathy-sanchez-/) or ksanchez@counciloncj.org  
 💬 Ask me about: Your data project, my work or exchanging ideas    
