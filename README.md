@@ -1,11 +1,11 @@
 #### Hi there! 👋 
 
-I'm a crime and econ researcher. I currently manage research contracts at the [Council on Criminal Justice](https://counciloncj.org/) and analyze data for its commissions and working groups.
+I'm a crime and econ researcher interested in economic mobility, transparency, guns and administrative regulation.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathy-sanchez-/) or ksanchez@counciloncj.org  
-💬 Ask me about: Your data project, my work or exchanging ideas    
-💼 Previously: [Institute for Justice](https://ij.org/) and Maryland Sentencing Commission 
-
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathy-sanchez-/) message   
+💬 Ask me about: How I can help with your data project, my previous work or exchanging ideas    
+💼 Previously: [Institute for Justice](https://ij.org/), Maryland Sentencing Commission, [Council on Criminal Justice](https://counciloncj.org/)    
+⚡ Fun fact: I like death metal.
 
 <!--
 **kathysanchez/kathysanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
