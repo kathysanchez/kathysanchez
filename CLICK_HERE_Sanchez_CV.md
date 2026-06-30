@@ -19,6 +19,14 @@ Researcher and data analyst in think tanks, specializing in streamlining data pr
 - Frédéric Bastiat Fellow, Mercatus Center at George Mason University, 2022 
 - Don Lavoie Fellow, Mercatus Center at George Mason University, 2020 
 
+#### Blog Posts
+- [FCC Allows Broadband to Substitute Router Parts Amid AI-Driven Shortages](https://freestatefoundation.blogspot.com/2026/06/fcc-allows-broadband-to-substitute.html), 2026 
+- [Maryland Has a Long Way to Go on Taxes](https://freestatefoundation.blogspot.com/2026/05/maryland-has-long-way-to-go-on-taxes.html), 2026 
+- [Maryland Doesn't Need to Stop Dynamic Pricing](https://freestatefoundation.blogspot.com/2026/05/maryland-doesnt-need-to-stop-dynamic.html), 2026 
+- [Sanders' AI Bill Is a Red Herring and Blackburn's Has Problems](https://freestatefoundation.blogspot.com/2026/04/sanders-ai-bill-is-red-herring-and.html), 2026 
+- [White House to Congress: Fix the AI Patchwork](https://freestatefoundation.blogspot.com/2026/03/white-house-to-congress-fix-ai-patchwork.html), 2026 
+- [State Lawmakers Are Not Waiting for Washington to Regulate AI](https://freestatefoundation.blogspot.com/2026/03/state-lawmakers-are-not-waiting-for.html), 2026 
+
 #### Research & Reports
 - [Women's Justice: By the Numbers](https://counciloncj.org/womens-justice-by-the-numbers/), 2024 
 - [How Sunrise Reviews Help Keep Regulation Focused on Health and Safety](https://www.clearhq.org/news/clear-resource-brief-how-sunrise-reviews-help-keep-regulation-focused-on-health-and-safety), 2022 
