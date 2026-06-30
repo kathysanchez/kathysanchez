@@ -9,15 +9,23 @@ Researcher and data analyst in think tanks, specializing in streamlining data pr
 - Master of Arts in Political Science, North Carolina State University, 2016 
 
 #### Employment
-- Research Specialist, [Council on Criminal Justice](https://counciloncj.org/), 2024–Present 
+- Research Specialist, [Council on Criminal Justice](https://counciloncj.org/), Jan 2024–June 2026
 - Faculty Specialist Research Analyst, [Maryland Commission on Criminal Sentencing Policy](https://msccsp.org/) at the University of Maryland College Park, 2023
 - Researcher, [Institute for Justice](https://ij.org/), 2016–2022 
 - Research Intern, [John Locke Foundation](https://www.johnlocke.org/), Fall 2016 
 - Deputy Clerk, Wake County Clerk of Criminal Court in North Carolina, 2015–2016
 
 #### Awards 
+- Gordon Tullock Fellow, Mercatus Center at George Mason University, 2025
 - Frédéric Bastiat Fellow, Mercatus Center at George Mason University, 2022 
 - Don Lavoie Fellow, Mercatus Center at George Mason University, 2020 
+
+#### Research & Reports
+- [Women's Justice: By the Numbers](https://counciloncj.org/womens-justice-by-the-numbers/), 2024 
+- [How Sunrise Reviews Help Keep Regulation Focused on Health and Safety](https://www.clearhq.org/news/clear-resource-brief-how-sunrise-reviews-help-keep-regulation-focused-on-health-and-safety), 2022 
+- [Too Many Licenses? Government Sunrise Reviews Cast Doubt on Barriers to Work](https://ij.org/report/too-many-licenses/), 2022 
+- [The Abuse of Civil Asset Forfeiture](https://ij.org/report/policing-for-profit-3/), 2020 
+- [Barriers to Braiding: Illinois Analysis](https://ij.org/wp-content/uploads/2019/11/Barriers-to-Braiding-Supplement-Illinois.pdf), 2019 
 
 #### Blog Posts
 - [FCC Allows Broadband to Substitute Router Parts Amid AI-Driven Shortages](https://freestatefoundation.blogspot.com/2026/06/fcc-allows-broadband-to-substitute.html), 2026 
@@ -26,13 +34,6 @@ Researcher and data analyst in think tanks, specializing in streamlining data pr
 - [Sanders' AI Bill Is a Red Herring and Blackburn's Has Problems](https://freestatefoundation.blogspot.com/2026/04/sanders-ai-bill-is-red-herring-and.html), 2026 
 - [White House to Congress: Fix the AI Patchwork](https://freestatefoundation.blogspot.com/2026/03/white-house-to-congress-fix-ai-patchwork.html), 2026 
 - [State Lawmakers Are Not Waiting for Washington to Regulate AI](https://freestatefoundation.blogspot.com/2026/03/state-lawmakers-are-not-waiting-for.html), 2026 
-
-#### Research & Reports
-- [Women's Justice: By the Numbers](https://counciloncj.org/womens-justice-by-the-numbers/), 2024 
-- [How Sunrise Reviews Help Keep Regulation Focused on Health and Safety](https://www.clearhq.org/news/clear-resource-brief-how-sunrise-reviews-help-keep-regulation-focused-on-health-and-safety), 2022 
-- [Too Many Licenses? Government Sunrise Reviews Cast Doubt on Barriers to Work](https://ij.org/report/too-many-licenses/), 2022 
-- [The Abuse of Civil Asset Forfeiture](https://ij.org/report/policing-for-profit-3/), 2020 
-- [Barriers to Braiding: Illinois Analysis](https://ij.org/wp-content/uploads/2019/11/Barriers-to-Braiding-Supplement-Illinois.pdf), 2019 
 
 #### Testimony   
 - Support of [HB 1101](https://gencourt.state.nh.us/BillHistory/SofS_Archives/2022/senate/HB1101S.pdf) to limit equitable sharing, oral testimony before the Senate Judiciary Committee, New Hampshire, April 2022 
