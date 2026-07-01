@@ -1,4 +1,3 @@
-
 ## Kathy Sanchez
 
 Researcher and data analyst in think tanks, specializing in streamlining data processes and translating complex criminal justice and economic insights into clear, actionable language. 
@@ -9,7 +8,8 @@ Researcher and data analyst in think tanks, specializing in streamlining data pr
 - Master of Arts in Political Science, North Carolina State University, 2016 
 
 #### Employment
-- Research Specialist, [Council on Criminal Justice](https://counciloncj.org/), Jan 2024–June 2026
+- Self-employed, Jun 2025–Present
+- Research Specialist, [Council on Criminal Justice](https://counciloncj.org/), Jan 2024–June 2025
 - Faculty Specialist Research Analyst, [Maryland Commission on Criminal Sentencing Policy](https://msccsp.org/) at the University of Maryland College Park, 2023
 - Researcher, [Institute for Justice](https://ij.org/), 2016–2022 
 - Research Intern, [John Locke Foundation](https://www.johnlocke.org/), Fall 2016 
